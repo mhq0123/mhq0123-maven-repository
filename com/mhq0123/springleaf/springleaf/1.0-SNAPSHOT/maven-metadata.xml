@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.mhq0123.springleaf</groupId>
+  <artifactId>springleaf</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170105.145217</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20170105145217</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20170105.145217-1</value>
+        <updated>20170105145217</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
