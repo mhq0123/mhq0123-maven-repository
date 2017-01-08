@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.mhq0123.springleaf</groupId>
-  <artifactId>springleaf-common</artifactId>
+  <artifactId>springleaf-core</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20170108161317</lastUpdated>
+    <lastUpdated>20170108161417</lastUpdated>
   </versioning>
 </metadata>
